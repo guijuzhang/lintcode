@@ -27,6 +27,7 @@ public:
 
 long long PenguinSledding::countDesigns(int numCheckpoints, vector <int> checkpoint1, vector <int> checkpoint2) {
 	long res=1;
+    res = 1;
 	int n=checkpoint1.size();
 	res+=n;
 	vector<int> points(numCheckpoints+1,0);
