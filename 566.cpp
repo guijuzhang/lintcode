@@ -55,7 +55,7 @@ long long PenguinSledding::countDesigns(int numCheckpoints, vector <int> checkpo
 			}
 		}
 	}
-	cout << "teest" << endl;
+	cout << "zgj" << endl;
 	return res;
 }
 
